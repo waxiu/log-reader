@@ -1,1 +1,1 @@
-C:\Users\ivoja\Desktop\simpleLogsDir
+D:\logs
