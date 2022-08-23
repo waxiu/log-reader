@@ -1,0 +1,5 @@
+2016-12-04 11:37:20,733 INFO  [org.jboss.msc] (main) JBoss MSC version 1.2.6.Final
+2017-12-04 11:37:20,830 INFO  [org.jboss.as] (MSC service thread 1-7) WFLYSRV0049: WildFly Full 9.0.2.Final (WildFly Core 1.0.2.Final) starting
+2017-12-04 11:37:20,833 DEBUG [org.jboss.as.config] (MSC service thread 1-7) Configured system properties
+2017-12-04 11:37:22,280 FATAL [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0056: Server boot has failed in an unrecoverable manner; exiting. See previous messages for details.
+2017-12-04 11:37:22,282 INFO  [org.jboss.as.server] (Thread-2) WFLYSRV0220: Server shutdown has been requested.
